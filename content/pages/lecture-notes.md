@@ -4,22 +4,253 @@ title: Lecture Notes
 uid: 662ca147-ffa5-5dc6-d152-f9a825ee8e03
 ---
 
-| Ses # | Topics | Lecture Titles |
-| --- | --- | --- |
-| 1 | Introduction | [Rising Storm: State of the Union Address](http://www.nytimes.com/2006/02/02/business/02research.html?ex=1296536400&en=84faf625cb5962db&ei=5090&partner=rssuserland&emc=rss) |
-| 2 | Humans in Space | A Journey into Space  {{< br >}}  {{< br >}}Humans in Space Lecture Notes  {{< br >}}  {{< br >}}Physiological Systems |
-| 3 | Exploration in Extreme Environments | ICE Stuster Slides  {{< br >}}  {{< br >}}Risk and Exploration: Earth, Sea and the Stars |
-| 4 | Bone Changes in Space | Bone Dynamics Examples - Fall and Beam Analysis  {{< br >}}  {{< br >}}Bone Slides 1  {{< br >}}  {{< br >}}Bone Slides 2  {{< br >}}  {{< br >}}Bone Summary Mindmap  {{< br >}}  {{< br >}}Russian Bone Data |
-| 5 | Muscle Mechanisms I | Muscle Mechanics I |
-| 6 | Muscle Mechanisms II | Muscle Slides  {{< br >}}  {{< br >}}Muscle Spindle and Model  {{< br >}}  {{< br >}}Muscle Summary |
-| 7 | Motor Control Optimization | Motor Control Slides |
-| 8 | Quiz 1 |  |
-| 9 | Musculoskeletal Dynamics and Control | Dynamics Lecture Notes |
-| 10 | Cardiovascular System | Introduction to the CV System  {{< br >}}  {{< br >}}Models of Peripheral Circulation  {{< br >}}  {{< br >}}The Heart as a Pump |
-| 11 | Cardiovascular Control | Control of the CV System |
-| 12 | Cardiovascular Simulation | CV Computational Model  {{< br >}}  {{< br >}}CV Response to Gravitational Stress |
-| 13 | Countermeasures and Artificial Gravity | Countermeasures and Artificial Gravity |
-| 14 | Extravehicular Activity (EVA) | Extravehicular Activity (EVA)  {{< br >}}  {{< br >}}An Investigation of the Space Suit  {{< br >}}  {{< br >}}EVA Lecture, Prof. Hoffman |
-| 15 | EVA II: Research | Advanced EVA Research |
-| 16 | Teaching and Outreach I |  |
-| 17 | Teaching and Outreach II |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Lecture Titles
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+[Rising Storm: State of the Union Address](http://www.nytimes.com/2006/02/02/business/02research.html?ex=1296536400&en=84faf625cb5962db&ei=5090&partner=rssuserland&emc=rss)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Humans in Space
+{{< tdclose >}}
+{{< tdopen >}}
+A Journey into Space  
+  
+Humans in Space Lecture Notes  
+  
+Physiological Systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Exploration in Extreme Environments
+{{< tdclose >}}
+{{< tdopen >}}
+ICE Stuster Slides  
+  
+Risk and Exploration: Earth, Sea and the Stars
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Bone Changes in Space
+{{< tdclose >}}
+{{< tdopen >}}
+Bone Dynamics Examples - Fall and Beam Analysis  
+  
+Bone Slides 1  
+  
+Bone Slides 2  
+  
+Bone Summary Mindmap  
+  
+Russian Bone Data
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Muscle Mechanisms I
+{{< tdclose >}}
+{{< tdopen >}}
+Muscle Mechanics I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Muscle Mechanisms II
+{{< tdclose >}}
+{{< tdopen >}}
+Muscle Slides  
+  
+Muscle Spindle and Model  
+  
+Muscle Summary
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Motor Control Optimization
+{{< tdclose >}}
+{{< tdopen >}}
+Motor Control Slides
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Musculoskeletal Dynamics and Control
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics Lecture Notes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Cardiovascular System
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the CV System  
+  
+Models of Peripheral Circulation  
+  
+The Heart as a Pump
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Cardiovascular Control
+{{< tdclose >}}
+{{< tdopen >}}
+Control of the CV System
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Cardiovascular Simulation
+{{< tdclose >}}
+{{< tdopen >}}
+CV Computational Model  
+  
+CV Response to Gravitational Stress
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Countermeasures and Artificial Gravity
+{{< tdclose >}}
+{{< tdopen >}}
+Countermeasures and Artificial Gravity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Extravehicular Activity (EVA)
+{{< tdclose >}}
+{{< tdopen >}}
+Extravehicular Activity (EVA)  
+  
+An Investigation of the Space Suit  
+  
+EVA Lecture, Prof. Hoffman
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+EVA II: Research
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced EVA Research
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Teaching and Outreach I
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Teaching and Outreach II
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
