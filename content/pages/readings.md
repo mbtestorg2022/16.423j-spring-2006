@@ -48,11 +48,11 @@ Humans in Space
 {{< tdopen >}}
 "Space Science and Exploration: Research and Development Funding in the President's 2007 Budget." Office of Science and Technology Policy, Executive Office of the President, Washington, DC, 2006.  
   
-"Math and Science Eduction: American Competitiveness Initiative Education Funding in the President's 2007 Budget." Office of Science and Technology Policy, Executive Office of the President, Washington, DC, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ostp.gov/pdf/1pger_mathsciedu.pdf))  
+"Math and Science Eduction: American Competitiveness Initiative Education Funding in the President's 2007 Budget." Office of Science and Technology Policy, Executive Office of the President, Washington, DC, 2006. ([PDF](http://www.ostp.gov/pdf/1pger_mathsciedu.pdf))  
   
 2007 US Federal R&D Budget Facts. ([PDF](http://www.ostp.gov/pdf/2007factsheet.pdf))  
   
-"NASA's Exploration Systems Architecture Study." Executive Summary. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF - 4.9 MB](http://images.spaceref.com/news/2005/ESAS.REPORT.01.PDF))
+"NASA's Exploration Systems Architecture Study." Executive Summary. ( [PDF - 4.9 MB](http://images.spaceref.com/news/2005/ESAS.REPORT.01.PDF))
 {{< tdclose >}}
 
 {{< trclose >}}
