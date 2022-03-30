@@ -54,9 +54,9 @@ Assignment 3 ([PDF]({{< baseurl >}}/resources/assign_3))
 ([PDF]({{< baseurl >}}/resources/assign_3_solns))
 {{< tdclose >}}
 {{< tdopen >}}
-joe\_var.m ([M](/courses/aeronautics-and-astronautics/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/assignments/joe_var.m))  
+joe\_var.m ({{% resource_link "60adf4d5-2e02-46a8-6f0e-23e5b4ce770d" "M" %}})  
   
-joe\_model.mdl ([MDL](/courses/aeronautics-and-astronautics/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/assignments/joe_model.mdl))
+joe\_model.mdl ({{% resource_link "dba6b673-c809-3e1c-fb6f-07bf348cd906" "MDL" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,11 +68,11 @@ Assignment 4 ([PDF]({{< baseurl >}}/resources/assign4_dynamics))
 ([PDF]({{< baseurl >}}/resources/assign4dynsoln))
 {{< tdclose >}}
 {{< tdopen >}}
-dynamics\_prob6\_script.m ([M](/courses/aeronautics-and-astronautics/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/assignments/dynamics_prob6_script.m))  
+dynamics\_prob6\_script.m ({{% resource_link "d916644b-eeaf-8f24-c7c0-c4cd8e53861b" "M" %}})  
   
-dynamics\_prob2.mdl ([MDL](/courses/aeronautics-and-astronautics/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/assignments/dynamics_prob2.mdl))  
+dynamics\_prob2.mdl ({{% resource_link "33f116ff-ad85-b194-826f-cf12cfdcfa90" "MDL" %}})  
   
-dynamics\_prob345.mdl ([MDL](/courses/aeronautics-and-astronautics/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/assignments/dynamics_prob345.mdl))
+dynamics\_prob345.mdl ({{% resource_link "ffd5ded0-5141-5563-6ce3-b4be894d0ef2" "MDL" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
